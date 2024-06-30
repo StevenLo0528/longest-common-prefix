@@ -1,0 +1,14 @@
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\bin\Debug\net8.0\longest common prefix.exe
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\bin\Debug\net8.0\longest common prefix.deps.json
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\bin\Debug\net8.0\longest common prefix.runtimeconfig.json
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\bin\Debug\net8.0\longest common prefix.dll
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\bin\Debug\net8.0\longest common prefix.pdb
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.AssemblyInfoInputs.cache
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.AssemblyInfo.cs
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.csproj.CoreCompileInputs.cache
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.dll
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\refint\longest common prefix.dll
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.pdb
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\longest common prefix.genruntimeconfig.cache
+C:\Users\a1318\Desktop\研揚作業\longest common prefix\longest common prefix\obj\Debug\net8.0\ref\longest common prefix.dll
